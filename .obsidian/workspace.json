@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "6a60a9ceafa6ad19",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9f4860196c081a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cab986c0ea4035a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application for DL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c44105b16a219a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "89727a408524b7de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea50e9635008c77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5263804fb0f6c38a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21f64f70ac8d4d32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "15cba215af7a7bd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b8a2ae5eed90985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04adc641b22e83fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Application for DL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f571b4f420f655c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Application for DL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35eadccc04e4cfc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5c43caf6a7359b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Application for DL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "4cab986c0ea4035a",
+  "lastOpenFiles": [
+    "Qt_app/App_for_DL/widget.cpp.LQOctt",
+    "Qt_app/App_for_DL/widget.ui.JsJGBk",
+    "Qt_app/App_for_DL/widget.h.LjggLW",
+    "Qt_app/App_for_DL/widget.cpp.dyiAqL",
+    "Qt_app/App_for_DL/widget.cpp.qGsRYz",
+    "Qt_app/test.py",
+    "Qt_app/App_for_DL/widget.h.BnLZDy",
+    "Qt_app/App_for_DL/widget.ui.autosave",
+    "Qt_app/App_for_DL/widget.h.yUXXao",
+    "Qt_app/App_for_DL/widget.ui.YrYzxb",
+    "Qt_app/App_for_DL/widget.cpp.BcOFZC",
+    "Application for DL.md",
+    "qt学习笔记.md",
+    "[[Qt.md",
+    "().md",
+    "Pasted image 20240407123308.png",
+    "Pasted image 20240407123059.png",
+    "Qt6 书籍学习笔记.md",
+    "我的第一篇笔记.md",
+    "2024-04-06.md",
+    "Pasted image 20240404213109.png",
+    "未命名.canvas"
+  ]
+}
